@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Belliat1
+- Johan Felipe Gómez Quintero
 - 👀 I’m interested in Js, HTML5, Python, Java and videogames
 - https://belliat1.github.io/Canvas/flechas.html - Canvas Project
 - https://belliat1.github.io/MiniGame/villa.html - Minigame in Canvas
