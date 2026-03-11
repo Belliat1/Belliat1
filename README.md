@@ -33,5 +33,5 @@ I specialize in building intelligent systems that bridge the gap between complex
 ---
 
 ### 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/johan-felipe-gomez-quintero/) 
+- - [LinkedIn](https://www.linkedin.com/in/johan-felipe-gomez-quintero-991aba226/)
 - 📍 Currently based in **Malta 🇲🇹** | Available for **Remote Worldwide 🌍**
