@@ -35,6 +35,6 @@ Here are some of the active repositories and projects I am currently developing:
 
 * [LinkedIn](https://www.linkedin.com/in/johan-felipe-gomez-quintero-991aba226/?locale=es_ES)
 * [Ti-va Services](https://www.ti-va.com/)
-* [Torre Profile](https://torre.ai/johanfelipegomezquintero?r=Erk1SChB)
+* [Torre Profile](https://torre.ai/s/5k8w2I3VKM)
 
 📍 Currently based in **Malta 🇲🇹** | Available for **Remote Worldwide 🌍**
