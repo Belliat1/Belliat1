@@ -31,7 +31,6 @@ Here are some of the active repositories and projects I am currently developing:
 * **[Global-Macroeconomic-Risk-AI](https://github.com/Belliat1/Global-Macroeconomic-Risk-AI):** An AI-driven analytical tool designed to assess and model macroeconomic risks.
 * **[Crisis-Management-AI-Agent](https://github.com/Belliat1/crisis-management-ai-agent):** An intelligent agentic workflow utilizing LLMs to simulate and manage crisis scenarios effectively.
 * **[Ti-va Landing / Services](https://github.com/Belliat1/tiva-landing):** Architecture and deployment for scalable B2B AI services, focusing on automation and CRM integrations.
-* **[InglesYa](https://github.com/Belliat1/inglesya):** An educational platform tailored for children and adolescents to learn English interactively.
 
 ### 📫 Connect with me
 
